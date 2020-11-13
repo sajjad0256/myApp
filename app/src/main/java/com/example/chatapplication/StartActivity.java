@@ -12,7 +12,7 @@ public class StartActivity extends AppCompatActivity implements View.OnClickList
     private Button login,register;
     //hi sajjad
     //welcome
-    //mine
+    //min
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
