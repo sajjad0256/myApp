@@ -10,6 +10,7 @@ import android.widget.Button;
 
 public class StartActivity extends AppCompatActivity implements View.OnClickListener {
     private Button login,register;
+    //hi git
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
